@@ -180,7 +180,7 @@ font-family: 'Chalet', sans-serif;
     opacity: 0;
 }
 
-.compre-ja .btn-plataforma .plataformas.ativa{
+.compre-ja .btn-plataforma .plataformas.ativo{
     display: flex;
     opacity: 1;
 }
